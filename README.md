@@ -1,1 +1,2 @@
-# Diseño y Programación Orientado a Objetos - 202220
+# Diseño y Programación Orientado a Objetos
+202220
